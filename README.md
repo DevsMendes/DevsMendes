@@ -1,8 +1,9 @@
-# Olá, eu sou o David Mendes!!
+![Renderização de Cápsula](https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient)
 
-Olá! Eu sou o David Mendes, um estudante de Ciência da Computação de 21 anos. Aqui está um pouco sobre mim:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1A1919&random=false&width=435&lines=Hii%2C+I'm+David+Mendes;I+study+computer+science.)](https://git.io/typing-svg)
 
-- 🎓 Estudante de Ciência da Computação
+
+
 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -15,3 +16,4 @@ Olá! Eu sou o David Mendes, um estudante de Ciência da Computação de 21 anos
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevsMendes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsMendes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+![Renderização de Cápsula](https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient)
