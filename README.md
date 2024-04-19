@@ -57,3 +57,6 @@ My name is David Mendes and I am a computer science student and I am 21 years ol
 
 
 ![Renderização de Cápsula](https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient)
+
+© 2024 David Mendes.
+
