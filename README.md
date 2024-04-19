@@ -48,4 +48,6 @@ My name is David Mendes and I am a computer science student and I am 21 years ol
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevsMendes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsMendes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+![snake gif](https://github.com/DevsMendes/DevsMendes/blob/output/github-contribution-grid-snake.svg)
+
 ![Renderização de Cápsula](https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient)
