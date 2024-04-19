@@ -1,11 +1,6 @@
 ![Renderização de Cápsula](https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1A1919&random=false&width=435&lines=Hii%2C+I'm+David+Mendes;I+study+computer+science." alt="Typing SVG">
-  </a>
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B32C82&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hii%2C+I'm+David+Mendes!!;+I+study+computer+science." alt="Typing SVG" /></a>
 
 **💻About me:**
 
