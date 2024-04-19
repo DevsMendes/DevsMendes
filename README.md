@@ -22,6 +22,12 @@
 
 **👨 Social:**
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mendes-url)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pciabela@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_mendes__/?next=%2F)
+
+
+
 
 
 **🌐 Web Browsers:**
@@ -37,7 +43,7 @@
 [![Pop!_OS Badge](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/)
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
-**📊 Analytics:**
+**<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:**
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevsMendes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsMendes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
