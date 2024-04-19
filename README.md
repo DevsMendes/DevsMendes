@@ -7,8 +7,11 @@
 </p>
 
 
+**💻About me:**
 
+My name is David Mendes and I am a computer science student and I am 21 years old. I have a deep passion for programming and technology. I like solving complex problems and exploring new concepts in the area of computer science. In my free time, I enjoy working on personal projects and keeping up to date with the latest developments in the technology industry. I'm driven by the desire to learn and grow as a software developer and I'm excited about the endless possibilities that technology offers.
 
+-------
 **🚀Skills:**
 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
@@ -25,8 +28,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mendes-url)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pciabela@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_mendes__/?next=%2F)
-
-
 
 
 
