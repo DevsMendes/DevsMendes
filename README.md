@@ -8,7 +8,7 @@
 
 **💻About me:**
 
-My name is David Mendes and I am a computer science student and I am 21 years old. I have a deep passion for programming and technology. I like solving complex problems and exploring new concepts in the area of computer science. In my free time, I enjoy working on personal projects and keeping up to date with the latest developments in the technology industry. I'm driven by the desire to learn and grow as a software developer and I'm excited about the endless possibilities that technology offers.
+My name is David Mendes and I am a computer science student and I am 22 years old. I have a deep passion for programming and technology. I like solving complex problems and exploring new concepts in the area of computer science. In my free time, I enjoy working on personal projects and keeping up to date with the latest developments in the technology industry. I'm driven by the desire to learn and grow as a software developer and I'm excited about the endless possibilities that technology offers.
 
 -------
 **🚀Skills:**
