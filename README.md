@@ -13,6 +13,7 @@ My name is David Mendes and I am a computer science student and I am 22 years ol
 -------
 **🚀Skills:**
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![React Native Badge](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
